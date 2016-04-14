@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 989afb2bba1aa954d9602c4209c79e4a, type: 3}
+  m_Name: DefaultWeapon
+  m_EditorClassIdentifier: 
+  fireRate: 5
+  ammoPrefab: {fileID: 195420, guid: 026718e228b6744479521460832cf50a, type: 2}
+  ammoSpeed: 60
+  shootDist: 60
+  damage: 1
+  angleDisp: 1
+  drawHitLine: 0
